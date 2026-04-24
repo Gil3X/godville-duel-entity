@@ -42,20 +42,24 @@
 2. Создайте новый скрипт и вставьте код из файла `tracker.user.js`.
 3. Либо откройте `tracker.user.js` в этом репозитории, нажмите кнопку **Raw** и подтвердите установку.
 
+---
+## ☕ Поддержка автора
+
 Автор будет благодарен любому проявлению вашей благодарности за развитие проекта!  
-👉 [Поддержать через ЮMoney](https://yoomoney.ru/fundraise/11UDGEK5Q82.240406)
+👉 [Поддержать через ЮMoney (перевод по ссылке)](https://yoomoney.ru/fundraise/11UDGEK5Q82.240406)
 
 <table border="0">
   <tr>
     <td align="center" valign="bottom">
-      <img src="https://githubusercontent.com" width="160" alt="ЮMoney"/><br/>
+      <img src="yoomoney.png" width="160" alt="ЮMoney"/><br/>
       <b>ЮMoney</b>
     </td>
     <td align="center" valign="bottom" style="padding-left: 40px;">
-      <img src="https://githubusercontent.com" width="160" alt="PayPal"/><br/>
+      <img src="paypal.png" width="160" alt="PayPal"/><br/>
       <b>PayPal</b>
     </td>
   </tr>
 </table>
 
+---
 *Сделано для сообщества Годвилля. Да пребудет с вами Великий Рандом!*
