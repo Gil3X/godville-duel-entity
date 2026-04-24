@@ -36,11 +36,19 @@
 2.  **LOG**: Открыть/закрыть боковую панель с подробной историей ходов.
 3.  **RESET**: Полный сброс данных (нужно при переходе к новому бою без перезагрузки страницы).
 
-## 🛠 Установка
+## 🛠 Установка (щаг 1)
 
 1. Установите расширение [Tampermonkey](https://tampermonkey.net) (или аналоги).
-2. Создайте новый скрипт и вставьте код из файла `GDE.user.js`.
-3. Либо откройте [GDE.user.js](https://github.com/Gil3X/godville-duel-entity/blob/main/GDE.user.js) в этом репозитории, нажмите кнопку **Raw** и подтвердите установку.
+
+## 📥 Установка самого скрипта (щаг 2)
+
+### Вариант 1: GreasyFork (рекомендуется)
+👉 [Установить с GreasyFork](https://greasyfork.org/en/scripts/575293-godville-duel-entity)
+
+### Вариант 2: Прямая установка
+- [Скачать .user.js](https://raw.githubusercontent.com/Gil3X/godville-duel-entity/main/GDE.user.js)
+- Создайте новый скрипт и вставьте код из файла `GDE.user.js`.
+- Либо откройте [GDE.user.js](https://github.com/Gil3X/godville-duel-entity/blob/main/GDE.user.js) в этом репозитории, нажмите кнопку **Raw** и подтвердите установку.
 
 ---
 ## 📜 Дисклеймер
