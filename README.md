@@ -39,7 +39,7 @@
 ## 🛠 Установка
 
 1. Установите расширение [Tampermonkey](https://tampermonkey.net) (или аналоги).
-2. Создайте новый скрипт и вставьте код из файла `tracker.user.js`.
+2. Создайте новый скрипт и вставьте код из файла `GDE.user.js`.
 3. Либо откройте [GDE.user.js](https://github.com/Gil3X/godville-duel-entity/blob/main/GDE1.133.user.js) в этом репозитории, нажмите кнопку **Raw** и подтвердите установку.
 
 ---
