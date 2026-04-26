@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Godville Duel Entity
-// @version      1.135
+// @version      1.136
 // @namespace    Godville Duel Entity
 // @description  Tactical radar for Godville Arena
 // @description:en  Tactical radar for Godville Arena
@@ -9,7 +9,7 @@
 // @license      GNU General Public License v3.0, Copyright Gilt3x
 // @match        *://godville.net/superhero*
 // @match        *://godville.net/duels*
-// @icon         https://google.com
+// @icon         https://howt0.top/images/PP_boll-opt.svg
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/Gil3X/godville-duel-entity/main/GDE.user.js
 // @downloadURL  https://raw.githubusercontent.com/Gil3X/godville-duel-entity/main/GDE.user.js
