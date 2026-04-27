@@ -86,7 +86,7 @@
                 <span style="font-size:16px; color:#aaa;"><span id="oE_val">0</span><span style="font-size:9px; opacity:0.7;">э</span>/<span id="oV_val">0</span><span style="font-size:9px; opacity:0.7;">г</span></span>
             </div>
         </div>
-        <div style="text-align:right; font-size:9px; color:#666; border-top:1px solid #333; padding-top:4px;">Gilt3x v1.135</div>
+        <div style="text-align:right; font-size:9px; color:#666; border-top:1px solid #333; padding-top:4px;">Gilt3x v1.137</div>
     `;
     document.body.appendChild(gui);
 
